@@ -1,0 +1,51 @@
+export const products = [
+  {
+    id: "1",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "2",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "3",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "4",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "5",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "6",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+  {
+    id: "7",
+    name: "bla",
+    price: "100",
+    sizes: ["s", "m", "l"],
+    image: "link to image",
+  },
+];
