@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "pages/HomePage";
-import "./App.css";
 import Layout from "layouts";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import { deepOrange } from "@material-ui/core/colors";
